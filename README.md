@@ -17,7 +17,7 @@ This project deploys a WordPress environment on AWS using:
 * Let's Encrypt SSL
 
 ## Architecture
-![](./wordpress-on-aws-with-2-tier-Architecture/images/wordpress-on-aws-2tier-arch.png)
+![](./images/wordpress-on-aws-2tier-arch.png)
 
 
 ## Components
@@ -75,4 +75,4 @@ ap-southeast-1 (Singapore)
 12. Complete WordPress Setup
 
 ## Output
-![](./wordpress-on-aws-with-2-tier-Architecture/images/results.png)
+![](./images/results.png)
